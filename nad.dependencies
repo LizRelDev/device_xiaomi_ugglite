@@ -3,7 +3,7 @@
     "remote": "github",
     "repository": "Gabuters-Dev/vendor_xiaomi_ugglite",
     "target_path": "vendor/xiaomi",
-    "branch": "lineage-17.1-rebase"
+    "branch": "nad-10"
   },
   {
     "remote": "github",
